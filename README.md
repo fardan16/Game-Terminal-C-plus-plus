@@ -1,35 +1,46 @@
-# Game Collection: Connect Four & Enigma Protocol
+# 🎮 Terminal Games Collection (C++)
 
-Repository ini berisi file executable (`.exe`) untuk dua game yang telah saya kembangkan. Kedua game ini dirancang untuk menguji logika dan strategi pemain.
+Halo! 👋 Selamat datang di repository game iseng-iseng saya. 
 
-## 🎮 Daftar Game
+Di sini saya *upload* dua game sederhana berbasis Terminal (Console) yang dibuat pakai C++. Walaupun grafisnya cuma tulisan (ASCII), tapi gameplay-nya lumayan buat ngasah otak atau sekadar ngisi waktu luang.
 
-### 1. Connect Four
-Adaptasi digital dari permainan papan strategi klasik yang populer.
-* **Genre:** Strategy / Board Game
-* **Tujuan:** Jadilah pemain pertama yang menyusun 4 token berwarna sama dalam satu garis lurus (bisa horizontal, vertikal, atau diagonal) di dalam grid papan.
-* **Gameplay:** Sederhana namun menantang, membutuhkan pemikiran ke depan untuk memblokir lawan sekaligus membangun kemenangan sendiri.
-
-### 2. Enigma Protocol
-Game yang menantang kemampuan pemecahan masalah dan logika Anda.
-* **Genre:** Puzzle / Logic / Cipher
-* **Deskripsi:** Masuki dunia "Enigma Protocol" di mana Anda harus memecahkan pola, kode, atau teka-teki yang rumit. Game ini menguji ketelitian dan kemampuan analisis pemain dalam menghadapi tantangan enkripsi atau situasi misterius.
+Silakan dicoba!
 
 ---
 
-## 🚀 Cara Menjalankan Game
+## 🕹️ Daftar Game
 
-Karena file sudah dalam bentuk `.exe` (Windows Executable), Anda tidak perlu menginstal compiler atau library tambahan.
+### 1. 🔴 Connect Four
+Ini game klasik yang legendaris. Pasti tau lah ya?
+* **Cara Main:** Kamu harus adu strategi lawan musuh.
+* **Misi:** Siapa yang duluan bisa nyusun **4 token** sewarna dalam satu garis (bisa lurus ke samping, ke atas, atau miring/diagonal), dia yang menang!
+* **Serunya:** Simpel tapi bikin gregetan kalau salah langkah dikit aja.
 
-1.  **Download** file `.exe` yang ingin Anda mainkan dari repository ini.
-2.  Pastikan Anda menggunakan sistem operasi **Windows**.
-3.  Klik dua kali (double-click) pada file tersebut untuk memulai permainan.
+### 2. 🔐 Enigma Protocol
+Nah, kalau yang ini buat kamu yang suka mikir agak keras.
+* **Konsep:** Ala-ala *hacker* atau detektif gitu.
+* **Misi:** Pecahkan kode, pola, atau teka-teki logika yang muncul di layar. Butuh ketelitian dan logika yang jalan.
+* **Tantangan:** Berani namatin?
 
 ---
 
-## ⚠️ Disclaimer
-File executable ini aman untuk dijalankan. Namun, terkadang Windows Defender atau antivirus mungkin mendeteksinya sebagai "Unknown Publisher" karena file ini dibuat secara independen (belum ditandatangani sertifikat digital). Anda dapat memilih *Run Anyway* untuk memainkannya.
+## 🚀 Cara Mainnya (Gampang Banget!)
+
+Nggak perlu ribet install compiler atau setup macem-macem, karena filenya udah jadi aplikasi **(.exe)**.
+
+1.  **Pilih & Download** file game yang mau dimainkan (`Connect_Four.exe` atau `Enigma_Protocol.exe`) di daftar file di atas.
+2.  Pastikan kamu pake **Windows**.
+3.  **Klik 2x** filenya, dan *boom*! Game langsung jalan di terminal.
 
 ---
 
-**Happy Gaming!**
+## ⚠️ Catatan Penting (Baca Dulu)
+Karena game ini saya buat sendiri (*indie developer*) dan belum punya sertifikat digital mahal:
+> Kadang **Windows Defender** atau Antivirus bakal "kaget" dan ngira ini file asing. 
+> 
+> **Tenang aja, ini aman kok 100% (No Virus).** > Kalau muncul peringatan biru, klik **"More Info"** -> terus pilih **"Run Anyway"**.
+
+---
+
+**Selamat bermain! 🥳**
+Kalau nemu *bug* atau error, boleh banget lapor di kolom Issues ya. *Thanks!*
