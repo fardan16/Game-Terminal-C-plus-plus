@@ -2,7 +2,7 @@
 
 Halo! 👋 Selamat datang di repository game iseng-iseng saya. 
 
-Di sini saya *upload* dua game sederhana berbasis Terminal (Console) yang dibuat pakai C++. Walaupun grafisnya cuma tulisan (ASCII), tapi gameplay-nya lumayan buat ngasah otak atau sekadar ngisi waktu luang.
+Di sini saya *upload* dua game sederhana berbasis Terminal (Console) yang dibuat pakai C++. Walaupun grafisnya cuma tulisan (ASCII), tapi gameplay-nya lumayanlah buat ngisi waktu luang.
 
 Silakan dicoba!
 
